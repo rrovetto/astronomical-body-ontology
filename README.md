@@ -4,6 +4,8 @@
 An ontology offering terms and expressing types of various sorts of bodies in the astronomical environment, i.e., outer space.
 Celestial objects, such as asteroids, moons and planets, may be the target of scientific investigation or astronautical operations. Having a structured, coherent, and detailed vocabulary, classifcation, and semantic/conceptual model may support those activities. 
 
+Alternative names for this model may be: Astronomical Object Ontology, Celestial Body Ontology, Celestial Object Ontology.
+
 ### Scope
 The scope is that of bodies (broadly construed, but mertial bodies more precisely, given the topic) in exo-atmospheric environments.  
 A sub-domain, or part of a broader domain, specifically of the astronomical enviroment (i.e. outer space, entirely). As such, it can form part of my [Astronomical Environment Ontology](https://github.com/rrovetto/Astronomical-Environment-Ontology/)
